@@ -1,0 +1,2 @@
+# Algoritmos-geneticos
+Este proyecto consistió en dimensionar un sistema celular de acuerdo con las características de un mapa genérico proporcionado por el usuario, para que, por medio de algoritmos genéticos, sea posible poder proveer la solución para obtener la mayor cobertura posible en dicha región, con distintos tipos de antenas, las cuales pueden variar según ciertas características, minimizando los costos del sistema.
