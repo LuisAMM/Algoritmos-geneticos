@@ -3,8 +3,18 @@ Este proyecto consistió en dimensionar un sistema celular de acuerdo con las ca
 
 
 El programa se compila con 
+
+
 	g++ proyecto.cpp -o proyecto -lm
+
+
 se necesitan dos parametros para correrlo, numero de vertices que contenga el mapa y el nombre del archivo en el cual se encuentran dichos vertices, para correrlo se necesitan dichos parametros en el orden correcto
+
+
 	proyecto 25 mapa.txt
+
+
 El mapa.txt tiene que estar en lo posible centrado en 0
+
+
 se incluyo una funcion en la libreria clase_ag la cual consiste en inicializar una poblacion en las coordenadas 0,0 y siempre presentes. 
